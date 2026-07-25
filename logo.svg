@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" fill="none">
+  <defs>
+    <linearGradient id="archGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2744"/>
+      <stop offset="100%" stop-color="#e67e22"/>
+    </linearGradient>
+  </defs>
+  <!-- Arch / gateway shape -->
+  <path d="M10 90 V45 Q10 10 60 10 Q110 10 110 45 V90 H10 Z" fill="url(#archGrad)"/>
+  <path d="M22 90 V48 Q22 24 60 24 Q98 24 98 48 V90" fill="none" stroke="#fff" stroke-width="2" opacity="0.3"/>
+  <!-- Stars -->
+  <circle cx="35" cy="38" r="2.5" fill="#fff" opacity="0.9"/>
+  <circle cx="60" cy="30" r="3" fill="#fff"/>
+  <circle cx="85" cy="38" r="2.5" fill="#fff" opacity="0.9"/>
+  <circle cx="48" cy="52" r="1.5" fill="#fff" opacity="0.7"/>
+  <circle cx="72" cy="52" r="1.5" fill="#fff" opacity="0.7"/>
+</svg>
