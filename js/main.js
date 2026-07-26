@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initScrollAnimations();
 });
 
-const WHATSAPP_NUMBER = '201098614758';
+const WHATSAPP_NUMBER = '971551125668';
 const INITIAL_PRODUCTS = 6;
 const LOAD_MORE_COUNT = 12;
 
